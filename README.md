@@ -1,2 +1,2 @@
-# Baxert_robot_project
+# Baxter Robot control by Python algorithms
 Programming, Code and documentation are privet.  

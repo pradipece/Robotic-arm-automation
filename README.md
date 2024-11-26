@@ -3,4 +3,4 @@ Programming, Code, and documentation are privet.
 
 
 
- <img src="https://i.imgur.com/87Uw0aG.png" width="480">
+ <img src="https://github.com/pradipece/Baxter_Robot_control_by_Python_algorithms/blob/main/Picture_2.png" width="600">

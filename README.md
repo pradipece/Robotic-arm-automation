@@ -1,5 +1,6 @@
 # Baxter Robot control by Python algorithms
-Programming, Code, and documentation are privet.  
+
+Some Programming, Code, and documentation are private for academic research purposes.    
 
 
 

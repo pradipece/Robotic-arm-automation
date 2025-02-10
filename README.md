@@ -1,6 +1,6 @@
 ### Baxter Robot control by Python algorithms
 
-Some Programming, Code, and documentation are private for academic research purposes.    
+   
 
 
 
